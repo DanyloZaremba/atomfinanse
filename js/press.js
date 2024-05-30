@@ -90,7 +90,7 @@ function renderInfoProduct(product) {
         <div class="product-price">
             <span class="new-price">${cost}</span>
         </div>
-        <a href="tel:+3806791100202">
+        <a href="tel:+380671242794">
 
             <button class="add_to_cart" id="add_to_cart">оформити лізинг</button>
         </a>
