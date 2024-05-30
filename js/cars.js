@@ -5,7 +5,7 @@ import {
     setBasketLocalStorage,
     getBasketLocalStorage,
     checkingRelevanceValueBasket
-} from './utils.js';
+} from 'js/utils.js';
 
 import { 
     COUNT_SHOW_CARDS_CLICK, 
