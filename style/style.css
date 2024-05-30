@@ -4761,6 +4761,9 @@ text-align: center;
   border-radius: 5%;
 
 }
+.asort_transcription{
+  width: 132px;
+}
 .asort_name{
   font-size: 10px;
   color: #000;
