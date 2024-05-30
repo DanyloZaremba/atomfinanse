@@ -138,7 +138,7 @@ function createCards(data) {
             <p class="asort_is">На складі: ${is}</p>
             <p class="asort_year"> Рік випуску: ${age}</p>
             <div class="asort_button_container">
-            <a  href="tel:+3806791100202">
+            <a  href="tel:+380671242794">
             <button class="asort_btn" >оформити лізинг</button>
             </a>
             </div>
