@@ -15,6 +15,21 @@
     "age": "2007"
     },
     {
+        "article": 11591,
+        "name": "VADERSTAD RDA 800C",
+        "fullName": "Посівний комплекс VADERSTAD RDA 800C 2015 р. № 3804 L",
+        "cost": "Ціну уточнюйте", 
+        "is": "1",
+        "brend": "VADERSTAD ",
+        "model": "RDA 800C",
+        "serialNumber": "RDAC001298",
+        "engine":"8",
+        "images": "images_goods/obmotuvath/11011/img_11011_1.jpg",
+        "description": "Посівний комплекс VADERSTAD RDA 800C 2015 р.",
+        "title_image": "img_stock/posiv/11591.png",
+        "age": "2015"
+        },
+    {
         "article": 11948,
         "name": "Pottinger Terrasem C6",
         "fullName": "Посівнивний комплекс Pottinger Terrasem C6 2020 р. №3979 St",
@@ -28,5 +43,20 @@
         "description": "Посівний комплекс б/у Pottinger Terrasem C6. Вага 8 600 кг. Isobus, технологічні копії. Ширина міжряддя - 167 мм, 36 сошників. Тиск на сошник 40-120. Без мінеральних добрив. Робоча швидкість 6-12 км/год. Маркер для розмітки рядків.",
         "title_image": "img_stock/posiv/11948.png",
         "age": "2020"
-        }
+        },
+        {
+            "article": 13048,
+            "name": " Lemken SeedHub 5/500",
+            "fullName": "Сівалка Lemken SeedHub 5/500 2022 р. №4307",
+            "cost": "9 900 €", 
+            "is": "1",
+            "brend": "Lemken",
+            "model": "SeedHub 5/500",
+            "serialNumber": "04064-01166",
+            "engine":"-",
+            "images": "images_goods/obmotuvath/11011/img_11011_1.jpg",
+            "description": "Сівалка Lemken SeedHub 5/500 2022 р.",
+            "title_image": "img_stock/posiv/11591.png",
+            "age": "2022"
+            }
 ]
