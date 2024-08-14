@@ -1481,8 +1481,25 @@ text-align: center;
 
 }
 .show-cards{
-  display: none;;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  height: 65px;
+  width: 250px;
+  font-size: 25px;
+  background-color: deepskyblue;
+  border: none;
+  border-radius: 15px;
+  color: #fff;
 }
+.show-cards:hover{
+  background-color: #1E90FF; 
+transition: 0.6s;
+}
+
 .asort_name{
   font-size: 18px;
   color: #000;
@@ -3062,7 +3079,23 @@ display: none;
 
 }
 .show-cards{
-display: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  height: 65px;
+  width: 250px;
+  font-size: 25px;
+  background-color: deepskyblue;
+  border: none;
+  border-radius: 15px;
+  color: #fff;
+}
+.show-cards:hover{
+  background-color: #1E90FF; 
+transition: 0.6s;
 }
 .home{
 display: none;
@@ -3472,7 +3505,23 @@ transition: 0.6s;
             
             }
             .show-cards{
-            display: none;
+              display: flex;
+              justify-content: space-around;
+              align-items: center;
+              margin-left: auto;
+              margin-right: auto;
+              margin-bottom: 10px;
+              height: 30px;
+              width: 150px;
+              font-size: 12px;
+              background-color: deepskyblue;
+              border: none;
+              border-radius: 10px;
+              color: #fff;
+            }
+            .show-cards:hover{
+              background-color: #1E90FF; 
+            transition: 0.6s;
             }
             .home{
             display: none;
@@ -4752,6 +4801,9 @@ text-align: center;
   background-color: #FFF; 
   border-radius: 3%;
 }
+.asort_transcription{
+  width: 132px;
+}
 .img_asort{
   display: flex;
   justify-content: space-around;
@@ -4760,9 +4812,6 @@ text-align: center;
   width: 122px;
   border-radius: 5%;
 
-}
-.asort_transcription{
-  width: 132px;
 }
 .asort_name{
   font-size: 10px;
